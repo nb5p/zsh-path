@@ -10,6 +10,7 @@ A plugin to get fish-like shrink directory. Inspired by ohmyzsh/plugins/shrink-p
 /home/tux/foo/bar  ==> ~/f/bar
 /home/tux/.foo/bar  ==> ~/.f/bar
 
+/usr ==> /usr
 /usr/local/bin ==> /u/l/bin
 ```
 
